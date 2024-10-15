@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21f38b6f-fd16-4256-aab8-ef337e0b01ce" name="Changes" comment="Caso 1: Calcular promedio del conjunto vacio (Verde)">
+    <list default="true" id="21f38b6f-fd16-4256-aab8-ef337e0b01ce" name="Changes" comment="Caso 3: Calcular promedio del conjunto vacio (Verde)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Aldheyr Cavero &lt;62060023@continental.edu.pe&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -222,8 +227,35 @@
       <option name="project" value="LOCAL" />
       <updated>1729027353899</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Caso 3: Calcular promedio del conjunto vacio (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729027810305</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027810305</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Caso 3: Calcular promedio del conjunto vacio (Verde)">
+      <option name="closed" value="true" />
+      <created>1729028008484</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729028008484</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
@@ -231,6 +263,8 @@
     <MESSAGE value="Creando el esqueleto de las clases Conjunto y TestConjunto" />
     <MESSAGE value="Caso 1: Calcular promedio del conjunto vacio (Rojo)" />
     <MESSAGE value="Caso 1: Calcular promedio del conjunto vacio (Verde)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Caso 1: Calcular promedio del conjunto vacio (Verde)" />
+    <MESSAGE value="Caso 3: Calcular promedio del conjunto vacio (Rojo)" />
+    <MESSAGE value="Caso 3: Calcular promedio del conjunto vacio (Verde)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 3: Calcular promedio del conjunto vacio (Verde)" />
   </component>
 </project>
